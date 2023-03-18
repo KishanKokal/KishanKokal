@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on Untrapped<br>🌱 I’m currently learning MERN stack<br>💬 Ask me about Python and Javscript<br>⚡️ Simplicity is the ultimate sophistication
+🔭 I’m currently working on <a href="https://github.com/KishanKokal/Untrapped" target="blank">Untrapped</a><br>🌱 I’m currently learning MERN stack<br>💬 Ask me about Python and Javscript<br>⚡️ Simplicity is the ultimate sophistication
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kishan-kokal-1072) 
+<a href="https://linkedin.com/in/kishan-kokal-1072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishan-kokal-1072" height="30" width="40" /></a> 
 <a href="https://www.leetcode.com/KishanKokal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="KishanKokal" height="30" width="40" /></a>
 
 # 💻 Tech Stack:
